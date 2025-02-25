@@ -43,7 +43,7 @@ Fui responsável pela configuração de um sistema legado sem documentação. Bu
 - Gestão e Colaboração: Organização do backlog com autogerenciamento da equipe e pair programming para questões críticas.
 
 Resultados:
-- Resolução de mais de 500 vulnerabilidades.
+- Resolução de mais de 500 apontamentos de vulnerabilidades.
 - Entrega antecipada, concluindo o projeto 1 mês antes do prazo.
 - Sucesso na entrega devido à colaboração constante e boas práticas ágeis.
 # 
