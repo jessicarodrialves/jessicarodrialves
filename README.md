@@ -57,9 +57,9 @@ Atuei no projeto de migração de microserviços, com foco na transição de bib
 - Testes e Validação: Executei testes para verificar se a aplicação estava sendo construída corretamente após a migração, garantindo que os microserviços estivessem funcionando como esperado.
 
 Resultados:
-    Migração bem-sucedida dos microserviços.
-    Ampliação significativa dos meus conhecimentos em Java e Spring Boot.
-    Conclusão dentro dos prazos estabelecidos.
+- Migração bem-sucedida dos microserviços.
+- Ampliação significativa dos meus conhecimentos em Java e Spring Boot.
+- Conclusão dentro dos prazos estabelecidos.
 
 ## Contato
 - LinkedIn: [Jessica Rodrigues](https://www.linkedin.com/in/jessica-rodrigues-alves/)
