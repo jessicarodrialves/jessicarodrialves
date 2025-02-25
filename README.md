@@ -1,6 +1,6 @@
 ## Olá!! eu sou a Jessica 👋
 Bem-vindo ao meu perfil! Aqui você pode ver um pouco sobre as tecnologias e ferramentas com as quais trabalho. 
-Sou uma desenvolvedora apaixonada por aprender coisas novas e sempre busco me aprimorar.
+Sou uma desenvolvedora apaixonada por aprender coisas novas.
 
 # 📚                     ***Conhecimentos*** 
 
