@@ -1,6 +1,7 @@
 ## Olá!! eu sou a Jessica 👋
-Bem-vindo ao meu perfil! Aqui você pode ver um pouco sobre as tecnologias e ferramentas com as quais trabalho. 
-Sou uma desenvolvedora apaixonada por aprender coisas novas.
+
+Bem-vindo ao meu perfil! Aqui você pode ver um pouco sobre as tecnologias e ferramentas com as quais trabalho.  
+Atualmente, sou estudante do bootcamp **Generation Brasil**, com foco em desenvolvimento **Java FullStack**. Sou uma desenvolvedora apaixonada por aprender coisas novas.
 
 # 📚                     ***Conhecimentos*** 
 
