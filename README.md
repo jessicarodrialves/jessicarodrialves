@@ -1,6 +1,6 @@
 # Olá!! eu sou a Jessica 👋
 <br> <!-- espaço-->
-👩‍💻 Bem-vindo ao meu perfil! Sou estudante de Desenvolvimento FullStack na Generation Brasil, com foco em Java. Formada em Análise e Desenvolvimento de Sistemas, tenho experiência com desenvolvimento de software com princípios MVC, S.O.L.I.D.,Spring Boot, migração para microserviços, automação de processos RPA, BI e metodologias ágeis.
+👩‍💻 Bem-vindo ao meu perfil! Sou estudante de Desenvolvimento FullStack na Generation Brasil, com foco em Java. Formada em Análise e Desenvolvimento de Sistemas, tenho experiência com desenvolvimento de software com princípios MVC,Spring Boot, migração para microserviços, automação de processos RPA, BI e metodologias ágeis.
 <br> <!-- espaço-->
 
 <picture>
