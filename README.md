@@ -71,7 +71,7 @@ Resultados:
 
 ## Contato
 - LinkedIn: [Jessica Rodrigues](https://www.linkedin.com/in/jessica-rodrigues-alves/)
-- GitHub: [jessica-rodrigues](https://github.com/jessica-rodrigues)
+- GitHub: [jessicarodrialves](https://github.com/jessicarodrialves)
 
 
 
